@@ -5,4 +5,7 @@ Test Template    search.page
 Test Teardown    Close Browser
 
 *** Test Cases ***
+# ============================================================
+# TEST CASE             KATEGORI    INPUT
+# ============================================================
 TC001 - Akses Goggle    Positive    Testing
